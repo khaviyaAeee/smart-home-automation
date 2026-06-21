@@ -1,0 +1,18 @@
+# Arduino / PlatformIO build artifacts
+.pio/
+.vscode/
+*.hex
+*.elf
+*.bin
+
+# Local secrets — never commit real WiFi/Firebase credentials
+firmware/esp32_main/config.local.h
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+*.swp
