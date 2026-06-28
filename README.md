@@ -20,7 +20,7 @@ Flip a switch in the browser, the ESP32 receives the request over WiFi, switches
 
 ## System architecture
 
-<p align="center"><img src="docs/images/system-architecture.svg" alt="Architecture diagram: four appliances connect through a relay module to an ESP32, which hosts a dashboard and syncs to Firebase" width="100%"></p>
+<p align="center"><img src="System Architecture.webp" alt="Architecture diagram: four appliances connect through a relay module to an ESP32, which hosts a dashboard and syncs to Firebase" width="100%"></p>
 
 <table>
 <tr>
